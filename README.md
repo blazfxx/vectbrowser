@@ -19,5 +19,5 @@ A Free, fast, browser made for MacOS
 
 
 ## Downloads
-https://github.com/blazfxx/vectbrowser/releases
+[releases](https://github.com/blazfxx/vectbrowser/releases)
 
