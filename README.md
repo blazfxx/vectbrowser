@@ -21,3 +21,7 @@ A Free, fast, browser made for MacOS
 ## Downloads
 [releases](https://github.com/blazfxx/vectbrowser/releases)
 
+- Intel releases have the "INTEL" label
+- M-Series/ARM releases have the "ARM" label
+
+- WINDOWS COMING SOON
